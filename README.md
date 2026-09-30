@@ -620,6 +620,7 @@ If this catalog helps you, you can support maintenance and new reviews via Strip
 ---
 
 ## Contributing
+- [fitze-x402-tools](https://fitze-x402-seller.app.workbuddy.host) — 13 pay-per-call x402 tools on Base USDC ($0.005-$0.01/call, no API key): web_fetch, domain_intel, github_repo, token_intel, repo_diligence, web_brief, stock_quote, free_url_check, usgs_earthquakes, open_meteo_weather, exchange_rates, sec_edgar_search, fda_recalls. Agent-payable via x402; MCP at `/mcp`; discovery at `/.well-known/x402`; payout to `0x0751...` on Base. ([MCP](https://fitze-x402-seller.app.workbuddy.host/mcp) | [Discovery](https://fitze-x402-seller.app.workbuddy.host/.well-known/x402))
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the full submission guide, criteria checklist, and entry format.
 
